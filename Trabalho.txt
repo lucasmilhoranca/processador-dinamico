@@ -1,0 +1,521 @@
+693 999 999 999 999 90 96 96 103 98 122 118 132 111
+20 30 20 21 31
+26 18 24 29 21
+24 25 29 32 22
+20 23 23 21 24
+4;At.jpeg;Imprimir;2
+1;DiamCras.avi;Gravar Dispositivo Externo;1
+2;DiamVitae.gif;Imprimir;7
+1;EgetOrciVehicula.xls;Gravar Dispositivo Externo;2
+2;Et.mpeg;Imprimir;2
+4;MorbiNonQuam.gif;Imprimir;1
+1;LaciniaSapienQuis.xls;Deletar;2
+1;OdioPorttitor.mpeg;Deletar;9
+4;Nulla.ppt;Ler;1
+2;VivamusVestibulumSagittis.mp3;Deletar;1
+4;RhoncusDui.avi;Ler;5
+1;Mauris.txt;Gravar Dispositivo Externo;2
+4;PulvinarSed.xls;Imprimir;6
+4;LaciniaAeneanSit.png;Ler;7
+4;DonecUt.gif;Imprimir;6
+4;Massa.pdf;Ler;8
+3;PlateaDictumst.doc;Deletar;3
+3;Ultrices.ppt;Gravar Dispositivo Interno;4
+3;Aliquam.xls;Imprimir;10
+2;Ac.avi;Gravar Dispositivo Interno;8
+4;Lorem.xls;Gravar Dispositivo Externo;5
+1;NisiNam.mp3;Imprimir;4
+4;InSapienIaculis.ppt;Imprimir;7
+4;Nulla.mp3;Deletar;9
+4;DiamCras.ppt;Imprimir;6
+1;UrnaPretium.avi;Gravar Dispositivo Interno;10
+2;TempusVelPede.txt;Deletar;6
+1;MorbiVestibulumVelit.mpeg;Gravar Dispositivo Externo;6
+2;IaculisCongue.mp3;Ler;8
+1;SemperSapienA.jpeg;Gravar Dispositivo Externo;8
+2;Nisi.xls;Imprimir;7
+4;InHac.xls;Gravar Dispositivo Externo;2
+3;NullaNuncPurus.mov;Gravar Dispositivo Externo;1
+1;CondimentumNeque.ppt;Ler;8
+2;InFaucibusOrci.jpeg;Gravar Dispositivo Interno;1
+3;VelitId.xls;Gravar Dispositivo Externo;9
+2;SuspendissePotenti.jpeg;Gravar Dispositivo Interno;6
+2;Lectus.mp3;Gravar Dispositivo Externo;7
+3;SapienSapien.mp3;Gravar Dispositivo Interno;6
+3;AcNulla.ppt;Gravar Dispositivo Interno;9
+1;AIpsumInteger.mpeg;Imprimir;7
+4;AdipiscingLorem.mov;Gravar Dispositivo Externo;7
+1;UltricesMattisOdio.xls;Deletar;3
+2;Ullamcorper.xls;Gravar Dispositivo Externo;8
+2;FermentumJustoNec.ppt;Ler;4
+4;ViverraPedeAc.tiff;Gravar Dispositivo Interno;1
+2;SitAmet.ppt;Deletar;5
+3;DonecPharetra.txt;Gravar Dispositivo Externo;9
+4;UltricesEnimLorem.mov;Gravar Dispositivo Externo;10
+3;Integer.avi;Deletar;4
+4;DolorSitAmet.doc;Gravar Dispositivo Interno;2
+1;NullaMollis.ppt;Deletar;3
+1;UltricesLiberoNon.xls;Imprimir;3
+1;Fringilla.gif;Gravar Dispositivo Interno;7
+4;Id.mp3;Deletar;10
+2;PortaVolutpatQuam.png;Ler;10
+1;EuFelisFusce.ppt;Deletar;9
+1;Justo.xls;Imprimir;3
+1;Odio.png;Gravar Dispositivo Interno;8
+1;IdSapienIn.ppt;Imprimir;5
+2;Molestie.pdf;Gravar Dispositivo Interno;9
+2;LaciniaNisi.ppt;Imprimir;7
+1;AFeugiatEt.png;Gravar Dispositivo Interno;3
+3;RhoncusAliquam.mp3;Gravar Dispositivo Interno;1
+3;Adipiscing.xls;Imprimir;4
+3;PotentiCrasIn.mp3;Imprimir;7
+4;HabitassePlatea.avi;Gravar Dispositivo Interno;3
+4;AmetCursus.png;Imprimir;3
+1;Platea.mp3;Gravar Dispositivo Interno;4
+2;SuscipitAFeugiat.xls;Gravar Dispositivo Externo;4
+2;EgetRutrum.avi;Gravar Dispositivo Externo;10
+2;LuctusEt.avi;Ler;8
+3;Eleifend.tiff;Imprimir;6
+4;PlateaDictumstAliquam.ppt;Gravar Dispositivo Externo;3
+3;Rhoncus.txt;Ler;7
+3;SagittisSapienCum.ppt;Gravar Dispositivo Interno;2
+2;InHac.xls;Imprimir;8
+1;SapienSapien.tiff;Gravar Dispositivo Externo;5
+2;LacusMorbiQuis.mp3;Ler;2
+2;Donec.mp3;Gravar Dispositivo Externo;2
+2;Massa.ppt;Imprimir;3
+1;Id.ppt;Imprimir;9
+3;PellentesqueViverra.avi;Imprimir;6
+3;EtUltricesPosuere.jpeg;Imprimir;8
+3;NonSodales.mp3;Imprimir;5
+4;NecEuismod.png;Gravar Dispositivo Interno;6
+3;TurpisSed.xls;Imprimir;4
+3;MaecenasLeoOdio.mp3;Ler;7
+3;Nulla.avi;Gravar Dispositivo Interno;1
+4;PosuereMetusVitae.png;Gravar Dispositivo Externo;4
+1;TurpisIntegerAliquet.mp3;Gravar Dispositivo Interno;3
+2;InterdumMauris.xls;Imprimir;9
+2;QuamPharetraMagna.xls;Gravar Dispositivo Interno;6
+1;Amet.tiff;Deletar;1
+2;DapibusDolorVel.doc;Gravar Dispositivo Externo;1
+2;Sem.xls;Imprimir;6
+2;PosuereCubiliaCurae.avi;Ler;7
+2;UltriciesEu.tiff;Gravar Dispositivo Interno;6
+3;Tempus.avi;Ler;7
+1;Non.jpeg;Deletar;7
+4;A.xls;Deletar;10
+4;LacusCurabiturAt.pdf;Gravar Dispositivo Interno;4
+2;Congue.txt;Gravar Dispositivo Externo;3
+2;ConsectetuerAdipiscing.mp3;Deletar;3
+1;PrimisInFaucibus.gif;Deletar;1
+3;Posuere.doc;Gravar Dispositivo Interno;4
+3;Viverra.ppt;Ler;7
+4;EleifendLuctusUltricies.xls;Deletar;5
+4;Quis.ppt;Deletar;8
+1;Curae.doc;Deletar;6
+1;SodalesScelerisqueMauris.tiff;Gravar Dispositivo Externo;2
+4;DonecUt.tiff;Ler;2
+4;Non.xls;Gravar Dispositivo Externo;4
+1;ConsequatLectusIn.txt;Deletar;1
+3;SitAmet.ppt;Ler;3
+2;Vestibulum.avi;Gravar Dispositivo Externo;9
+2;Imperdiet.mpeg;Gravar Dispositivo Interno;10
+2;TurpisEgetElit.txt;Imprimir;9
+4;FuscePosuereFelis.ppt;Gravar Dispositivo Interno;10
+3;SitAmetNunc.pdf;Gravar Dispositivo Interno;8
+1;TurpisEnimBlandit.xls;Gravar Dispositivo Externo;4
+4;ParturientMontesNascetur.ppt;Ler;7
+3;Vestibulum.ppt;Gravar Dispositivo Interno;2
+1;Eleifend.gif;Gravar Dispositivo Interno;10
+4;SapienCumSociis.ppt;Imprimir;9
+1;EuSapienCursus.xls;Deletar;1
+1;TurpisInteger.mpeg;Deletar;4
+4;EgetVulputate.pdf;Imprimir;9
+1;DuisConsequatDui.doc;Gravar Dispositivo Externo;7
+1;HabitassePlatea.txt;Gravar Dispositivo Interno;3
+3;TortorDuis.tiff;Gravar Dispositivo Externo;7
+4;Sapien.xls;Gravar Dispositivo Externo;4
+4;TristiqueEstEt.avi;Gravar Dispositivo Externo;7
+4;ScelerisqueMauris.xls;Gravar Dispositivo Interno;5
+4;PosuereMetusVitae.jpeg;Deletar;8
+1;AnteVelIpsum.avi;Imprimir;2
+3;InLectusPellentesque.doc;Gravar Dispositivo Interno;7
+4;Tristique.avi;Gravar Dispositivo Externo;5
+1;MaecenasLeo.avi;Deletar;4
+2;Tortor.mov;Deletar;8
+1;Quis.mpeg;Gravar Dispositivo Externo;7
+2;EstQuamPharetra.tiff;Deletar;5
+3;JustoEtiam.avi;Gravar Dispositivo Interno;2
+3;Justo.txt;Ler;6
+2;LigulaPellentesque.gif;Imprimir;9
+2;QuamA.png;Ler;4
+3;SuspendissePotenti.avi;Gravar Dispositivo Interno;6
+4;LacusMorbiQuis.doc;Ler;4
+1;ProinAtTurpis.avi;Gravar Dispositivo Externo;9
+3;UtOdio.xls;Deletar;10
+1;AtVulputate.ppt;Imprimir;10
+3;Ultrices.avi;Gravar Dispositivo Interno;10
+4;DonecQuisOrci.ppt;Deletar;8
+3;ViverraDiamVitae.xls;Gravar Dispositivo Interno;6
+1;PosuereMetusVitae.txt;Gravar Dispositivo Externo;1
+2;AnteVelIpsum.doc;Gravar Dispositivo Interno;9
+1;NullamSitAmet.avi;Ler;3
+4;NullaFacilisiCras.avi;Deletar;1
+1;Etiam.ppt;Gravar Dispositivo Interno;10
+3;UtVolutpatSapien.jpeg;Deletar;4
+4;ConvallisTortor.ppt;Imprimir;9
+2;Proin.xls;Ler;7
+1;AmetDiamIn.doc;Ler;9
+1;QuamFringilla.ppt;Gravar Dispositivo Externo;1
+1;Et.png;Gravar Dispositivo Externo;2
+1;SollicitudinVitae.ppt;Deletar;2
+1;EstPhasellusSit.tiff;Imprimir;10
+3;Tortor.xls;Ler;10
+2;SagittisDuiVel.jpeg;Ler;9
+4;CuraeMauris.avi;Gravar Dispositivo Interno;6
+2;VitaeNisiNam.avi;Ler;1
+1;ProinRisus.png;Gravar Dispositivo Externo;1
+1;MaecenasPulvinar.xls;Deletar;8
+4;MolestieNibh.avi;Gravar Dispositivo Interno;1
+2;SapienCursusVestibulum.tiff;Gravar Dispositivo Interno;7
+1;IdConsequatIn.ppt;Imprimir;9
+2;HacHabitassePlatea.xls;Imprimir;3
+1;VulputateLuctus.avi;Deletar;10
+2;DiamIn.ppt;Deletar;5
+4;LuctusEtUltrices.xls;Deletar;5
+4;VelitDonecDiam.xls;Imprimir;5
+2;MontesNascetur.jpeg;Deletar;7
+1;NislDuisBibendum.ppt;Ler;3
+3;Erat.ppt;Gravar Dispositivo Interno;1
+2;ConsequatMetusSapien.xls;Deletar;1
+2;NullaMollis.ppt;Ler;1
+4;CumSociis.mp3;Gravar Dispositivo Interno;10
+1;Diam.png;Imprimir;8
+3;Semper.mp3;Imprimir;8
+4;PrimisInFaucibus.mp3;Gravar Dispositivo Interno;4
+3;Dui.mp3;Ler;4
+4;Ut.avi;Gravar Dispositivo Externo;2
+1;SollicitudinMi.avi;Gravar Dispositivo Interno;10
+3;FaucibusOrci.xls;Gravar Dispositivo Interno;10
+3;NullaTellus.tiff;Gravar Dispositivo Externo;7
+1;MolestieSedJusto.avi;Gravar Dispositivo Externo;2
+4;AcNequeDuis.avi;Gravar Dispositivo Interno;6
+3;Convallis.avi;Deletar;7
+3;SemDuisAliquam.mp3;Gravar Dispositivo Interno;3
+1;EratErosViverra.xls;Ler;10
+3;NullaQuisque.pdf;Gravar Dispositivo Externo;1
+2;EgetSemperRutrum.xls;Gravar Dispositivo Interno;9
+4;VestibulumAnteIpsum.mp3;Ler;8
+1;EtUltrices.avi;Gravar Dispositivo Interno;6
+3;VariusUt.png;Imprimir;1
+3;Massa.mov;Imprimir;6
+3;GravidaSem.xls;Ler;9
+2;LacusAt.xls;Deletar;3
+4;DapibusDolor.mov;Gravar Dispositivo Externo;1
+3;MorbiPorttitor.tiff;Gravar Dispositivo Interno;6
+3;InterdumMaurisNon.avi;Gravar Dispositivo Interno;1
+3;EuPede.mp3;Imprimir;1
+1;Morbi.xls;Gravar Dispositivo Interno;6
+4;Vitae.txt;Deletar;8
+3;ProinRisusPraesent.txt;Gravar Dispositivo Interno;1
+4;Rutrum.mp3;Deletar;3
+4;InPurusEu.avi;Imprimir;2
+3;Ut.mp3;Ler;5
+1;Morbi.avi;Imprimir;2
+1;VelEnim.doc;Gravar Dispositivo Externo;1
+4;Cubilia.xls;Gravar Dispositivo Externo;8
+4;TurpisIntegerAliquet.mp3;Deletar;4
+4;Amet.png;Ler;4
+3;TellusNulla.mp3;Gravar Dispositivo Interno;9
+1;SemperInterdumMauris.ppt;Gravar Dispositivo Interno;1
+1;MaurisVulputateElementum.pdf;Deletar;9
+4;SuspendissePotenti.xls;Gravar Dispositivo Interno;9
+3;Ligula.doc;Gravar Dispositivo Externo;2
+1;SemperEst.mp3;Ler;5
+3;At.xls;Gravar Dispositivo Interno;2
+2;Amet.gif;Deletar;7
+2;LaciniaEgetTincidunt.tiff;Ler;6
+4;Luctus.mp3;Imprimir;8
+3;Erat.avi;Imprimir;8
+2;PorttitorLoremId.mov;Imprimir;7
+1;Sapien.avi;Imprimir;6
+1;JustoMorbiUt.avi;Gravar Dispositivo Externo;6
+3;AliquetMaecenasLeo.xls;Gravar Dispositivo Interno;9
+3;Posuere.avi;Gravar Dispositivo Interno;9
+4;EleifendQuam.mpeg;Imprimir;7
+1;OdioCrasMi.ppt;Imprimir;3
+2;JustoLacinia.mp3;Imprimir;2
+2;InPurusEu.tiff;Ler;1
+4;Integer.txt;Imprimir;3
+2;SapienCursus.mov;Deletar;1
+2;VenenatisLaciniaAenean.tiff;Gravar Dispositivo Interno;1
+1;Sollicitudin.avi;Gravar Dispositivo Interno;9
+3;UltricesPosuere.xls;Deletar;9
+2;AFeugiat.xls;Ler;9
+4;PellentesqueUltrices.gif;Deletar;6
+2;SapienIaculis.mp3;Imprimir;7
+1;VestibulumAnteIpsum.xls;Ler;9
+4;UltriciesEu.avi;Gravar Dispositivo Externo;2
+3;VestibulumProinEu.png;Deletar;2
+2;EratIdMauris.xls;Ler;3
+4;AcTellus.tiff;Ler;6
+3;TinciduntAnte.avi;Imprimir;5
+2;LuctusNec.avi;Ler;9
+4;PretiumNisl.gif;Deletar;6
+2;RhoncusAliquet.avi;Deletar;1
+2;EgetCongueEget.mov;Imprimir;6
+4;CrasMi.xls;Gravar Dispositivo Interno;2
+3;PosuereNonummy.tiff;Gravar Dispositivo Externo;6
+1;AliquetUltricesErat.gif;Ler;8
+3;UtVolutpatSapien.xls;Gravar Dispositivo Interno;10
+4;Mauris.tiff;Ler;3
+4;Suscipit.mpeg;Gravar Dispositivo Externo;1
+4;Posuere.xls;Deletar;6
+3;Pretium.avi;Ler;3
+1;LigulaSuspendisseOrnare.ppt;Imprimir;6
+4;LeoOdioCondimentum.mp3;Gravar Dispositivo Externo;1
+1;VelEnimSit.png;Deletar;5
+4;Mollis.ppt;Deletar;2
+4;UtNullaSed.ppt;Imprimir;10
+3;QuamPharetraMagna.avi;Gravar Dispositivo Externo;1
+1;NecSem.avi;Deletar;4
+1;OdioCondimentum.xls;Deletar;4
+4;CondimentumCurabitur.txt;Ler;6
+3;Faucibus.doc;Deletar;3
+2;Ut.mp3;Ler;8
+2;Vitae.gif;Ler;4
+3;TurpisInteger.jpeg;Imprimir;6
+4;Vel.jpeg;Deletar;9
+2;ElementumIn.xls;Ler;9
+1;DuiNecNisi.tiff;Ler;7
+1;AeneanFermentumDonec.tiff;Imprimir;2
+3;Sit.pdf;Imprimir;3
+4;Eu.xls;Gravar Dispositivo Interno;1
+3;AmetConsectetuerAdipiscing.avi;Gravar Dispositivo Interno;8
+4;LoremIdLigula.doc;Gravar Dispositivo Externo;2
+3;IdSapienIn.xls;Ler;7
+2;QuisqueErat.avi;Gravar Dispositivo Interno;5
+3;GravidaSemPraesent.png;Ler;9
+2;IaculisCongue.avi;Ler;5
+1;DiamNequeVestibulum.avi;Ler;3
+3;Turpis.ppt;Deletar;4
+1;PraesentLectusVestibulum.ppt;Imprimir;2
+4;Turpis.xls;Gravar Dispositivo Externo;10
+4;Faucibus.mp3;Deletar;5
+4;VulputateLuctus.txt;Ler;2
+2;In.png;Gravar Dispositivo Externo;5
+1;AliquamNon.ppt;Gravar Dispositivo Externo;7
+3;Tempor.tiff;Ler;3
+3;NislDuisBibendum.xls;Ler;10
+3;CongueRisusSemper.mp3;Gravar Dispositivo Externo;10
+3;DolorSit.png;Gravar Dispositivo Externo;9
+2;QuisOrciNullam.xls;Deletar;5
+1;Quis.xls;Ler;8
+2;DuiLuctusRutrum.tiff;Gravar Dispositivo Externo;8
+3;VestibulumAnte.tiff;Gravar Dispositivo Interno;8
+1;OrnareConsequat.mp3;Ler;9
+3;Vulputate.txt;Deletar;5
+1;VestibulumSit.mp3;Gravar Dispositivo Externo;5
+1;Etiam.avi;Deletar;9
+4;TinciduntLacusAt.mp3;Gravar Dispositivo Externo;2
+1;PlaceratPraesent.mp3;Imprimir;1
+4;MattisNibh.ppt;Gravar Dispositivo Externo;3
+2;Arcu.ppt;Gravar Dispositivo Interno;1
+3;AeneanLectus.mov;Imprimir;4
+4;DiamErat.xls;Deletar;4
+3;NullamOrciPede.mp3;Imprimir;7
+4;Vestibulum.avi;Imprimir;9
+1;Justo.gif;Gravar Dispositivo Externo;7
+3;AeneanSitAmet.xls;Gravar Dispositivo Interno;4
+1;UtNullaSed.png;Gravar Dispositivo Interno;9
+4;CursusVestibulum.txt;Gravar Dispositivo Externo;2
+3;UtMassa.ppt;Imprimir;6
+1;Nunc.gif;Gravar Dispositivo Externo;10
+1;NullaPedeUllamcorper.avi;Gravar Dispositivo Externo;6
+3;Nisl.mp3;Gravar Dispositivo Externo;2
+3;RutrumNullaNunc.jpeg;Gravar Dispositivo Externo;9
+2;Elit.mp3;Gravar Dispositivo Externo;3
+1;VestibulumAnteIpsum.mpeg;Imprimir;4
+1;UtNullaSed.doc;Deletar;2
+1;AccumsanTellusNisi.ppt;Gravar Dispositivo Externo;3
+2;A.xls;Deletar;7
+1;PlateaDictumstMaecenas.ppt;Gravar Dispositivo Externo;6
+1;LigulaSuspendisse.xls;Deletar;7
+2;Elit.jpeg;Gravar Dispositivo Interno;3
+2;Ut.doc;Imprimir;7
+3;Vitae.mp3;Gravar Dispositivo Interno;3
+3;LectusPellentesqueAt.ppt;Imprimir;2
+4;Vestibulum.mov;Ler;7
+1;Risus.jpeg;Gravar Dispositivo Externo;9
+2;MassaDonec.gif;Gravar Dispositivo Interno;9
+4;Cursus.mpeg;Ler;3
+4;LacusPurusAliquet.tiff;Gravar Dispositivo Interno;7
+4;Quis.jpeg;Gravar Dispositivo Externo;10
+3;AliquetAt.mp3;Gravar Dispositivo Interno;8
+2;EgetVulputate.avi;Deletar;4
+1;JustoSollicitudinUt.ppt;Gravar Dispositivo Interno;6
+3;Integer.avi;Deletar;8
+1;DuisFaucibusAccumsan.txt;Gravar Dispositivo Interno;5
+2;UtMassaQuis.jpeg;Gravar Dispositivo Externo;7
+2;Quis.ppt;Ler;10
+1;PurusAliquet.mp3;Imprimir;6
+1;Turpis.png;Gravar Dispositivo Interno;8
+1;Pede.xls;Gravar Dispositivo Externo;5
+3;NuncViverra.tiff;Ler;7
+2;ProinEuMi.mov;Imprimir;2
+2;UltricesPosuereCubilia.mp3;Imprimir;4
+4;SemperRutrum.tiff;Imprimir;4
+1;ConsequatMetus.jpeg;Ler;5
+4;Justo.avi;Gravar Dispositivo Interno;1
+1;ImperdietNullamOrci.mp3;Imprimir;7
+4;Semper.mp3;Deletar;1
+2;Quis.ppt;Gravar Dispositivo Externo;1
+4;InFelis.mp3;Imprimir;9
+3;Nunc.xls;Imprimir;1
+3;JustoLacinia.pdf;Gravar Dispositivo Interno;8
+1;PorttitorLacus.ppt;Gravar Dispositivo Externo;3
+4;QuisLectusSuspendisse.jpeg;Imprimir;6
+3;Diam.txt;Imprimir;7
+4;SapienIaculisCongue.jpeg;Gravar Dispositivo Externo;9
+2;Donec.xls;Gravar Dispositivo Externo;2
+1;JustoMorbi.mpeg;Gravar Dispositivo Externo;2
+4;AeneanFermentum.mp3;Gravar Dispositivo Externo;10
+1;OdioJusto.xls;Gravar Dispositivo Interno;1
+2;RisusSemper.jpeg;Deletar;10
+1;TurpisDonecPosuere.doc;Imprimir;6
+2;AtDiam.xls;Ler;8
+1;DonecVitaeNisi.xls;Deletar;4
+1;SemDuis.avi;Deletar;3
+3;AnteVelIpsum.gif;Imprimir;7
+1;VelPede.jpeg;Gravar Dispositivo Externo;1
+4;Dapibus.pdf;Imprimir;3
+3;NuncViverraDapibus.png;Ler;4
+4;CuraeDuis.xls;Deletar;5
+1;Felis.avi;Gravar Dispositivo Interno;5
+2;SitAmetSem.avi;Ler;10
+3;QuamAOdio.xls;Ler;10
+3;Donec.avi;Deletar;6
+1;SollicitudinVitae.avi;Deletar;7
+2;TortorSollicitudinMi.pdf;Gravar Dispositivo Interno;5
+4;CongueVivamusMetus.doc;Imprimir;7
+2;In.avi;Gravar Dispositivo Externo;3
+1;SapienNon.gif;Imprimir;5
+3;AliquamQuis.ppt;Gravar Dispositivo Externo;6
+3;DictumstEtiam.jpeg;Ler;10
+4;Morbi.jpeg;Gravar Dispositivo Interno;1
+1;ProinAtTurpis.png;Deletar;3
+1;SitAmetTurpis.mpeg;Imprimir;5
+1;AmetNullaQuisque.mp3;Imprimir;2
+1;NislNuncRhoncus.mp3;Imprimir;9
+3;AmetConsectetuerAdipiscing.mpeg;Imprimir;9
+3;Risus.avi;Deletar;8
+3;Sem.mp3;Gravar Dispositivo Externo;10
+2;EuFelis.mov;Gravar Dispositivo Interno;2
+1;Nulla.jpeg;Deletar;7
+1;LuctusCum.tiff;Gravar Dispositivo Externo;10
+2;Tincidunt.tiff;Ler;2
+2;Sociis.pdf;Deletar;6
+1;UltriciesEu.mp3;Ler;8
+3;CurabiturIn.tiff;Gravar Dispositivo Externo;8
+2;Nec.pdf;Ler;4
+4;ConsequatLectus.jpeg;Ler;3
+3;Dolor.ppt;Ler;7
+1;NonInterdumIn.avi;Gravar Dispositivo Externo;10
+3;OrciVehiculaCondimentum.jpeg;Gravar Dispositivo Externo;9
+3;SapienVarius.ppt;Deletar;1
+2;EtiamJustoEtiam.doc;Gravar Dispositivo Externo;8
+1;PraesentBlanditLacinia.mov;Gravar Dispositivo Externo;6
+4;Tempor.ppt;Gravar Dispositivo Externo;3
+2;LiberoQuis.xls;Ler;9
+4;Consequat.jpeg;Gravar Dispositivo Interno;1
+1;InSagittisDui.avi;Ler;9
+1;QuisqueUt.avi;Deletar;5
+2;Dignissim.png;Imprimir;3
+4;InPurusEu.gif;Gravar Dispositivo Externo;6
+2;Turpis.tiff;Gravar Dispositivo Externo;10
+3;NullaDapibus.mp3;Deletar;9
+1;InLectus.xls;Ler;4
+1;PraesentId.mp3;Gravar Dispositivo Externo;2
+3;Aenean.ppt;Imprimir;4
+3;Proin.mp3;Gravar Dispositivo Externo;5
+1;NuncViverraDapibus.ppt;Ler;6
+3;QuisqueArcuLibero.jpeg;Gravar Dispositivo Interno;8
+4;Semper.xls;Ler;9
+1;AmetSemFusce.ppt;Ler;1
+2;AliquamEratVolutpat.avi;Ler;3
+1;LiberoConvallisEget.doc;Imprimir;9
+1;NasceturRidiculusMus.avi;Gravar Dispositivo Externo;8
+3;Maecenas.doc;Deletar;8
+4;EuOrciMauris.mp3;Gravar Dispositivo Externo;9
+3;EratEros.pdf;Imprimir;10
+2;AnteIpsumPrimis.xls;Gravar Dispositivo Externo;2
+2;VestibulumSitAmet.mpeg;Imprimir;6
+2;MaurisMorbi.xls;Imprimir;5
+3;AliquamEratVolutpat.mpeg;Gravar Dispositivo Externo;5
+3;Felis.doc;Gravar Dispositivo Interno;9
+4;EgetSemperRutrum.gif;Ler;4
+3;UltricesPosuere.avi;Gravar Dispositivo Interno;7
+3;Orci.mpeg;Ler;4
+4;HendreritAt.mov;Gravar Dispositivo Externo;6
+3;MattisPulvinar.jpeg;Gravar Dispositivo Externo;5
+3;UtVolutpat.mp3;Gravar Dispositivo Interno;9
+2;Nunc.pdf;Ler;8
+3;AtLoremInteger.xls;Gravar Dispositivo Interno;8
+1;ANibhIn.xls;Ler;6
+1;Mauris.gif;Gravar Dispositivo Externo;8
+1;Congue.xls;Ler;10
+4;In.ppt;Deletar;7
+2;SuscipitAFeugiat.mpeg;Gravar Dispositivo Externo;7
+3;PosuereMetus.xls;Gravar Dispositivo Interno;5
+3;VelIpsumPraesent.ppt;Deletar;8
+1;LaciniaSapien.ppt;Gravar Dispositivo Interno;7
+1;Risus.pdf;Ler;7
+2;IpsumPrimisIn.mov;Deletar;9
+2;AcTellus.gif;Gravar Dispositivo Interno;4
+4;Est.png;Ler;2
+3;Ut.doc;Gravar Dispositivo Interno;3
+3;FaucibusAccumsanOdio.ppt;Ler;6
+1;LeoMaecenas.xls;Gravar Dispositivo Interno;4
+2;NamCongueRisus.mp3;Deletar;7
+1;InterdumIn.xls;Gravar Dispositivo Externo;1
+3;MaecenasUt.mov;Imprimir;4
+4;Condimentum.ppt;Ler;7
+1;VelPedeMorbi.mp3;Deletar;2
+1;LiberoNullamSit.xls;Gravar Dispositivo Externo;6
+2;Eu.avi;Deletar;1
+4;Maecenas.xls;Ler;10
+1;VivamusVel.tiff;Imprimir;7
+1;PellentesqueEget.xls;Ler;5
+3;DuiProin.ppt;Gravar Dispositivo Interno;4
+1;AliquamNonMauris.jpeg;Gravar Dispositivo Interno;2
+2;FusceLacus.tiff;Gravar Dispositivo Interno;4
+3;Ac.ppt;Deletar;1
+3;Sagittis.mp3;Gravar Dispositivo Interno;1
+2;LectusVestibulum.tiff;Imprimir;6
+2;PurusEuMagna.ppt;Ler;5
+3;CurabiturConvallis.png;Gravar Dispositivo Externo;4
+4;MagnaBibendum.doc;Gravar Dispositivo Externo;10
+3;CongueEtiamJusto.mp3;Imprimir;2
+2;JustoNecCondimentum.avi;Deletar;4
+2;Feugiat.avi;Imprimir;3
+4;IdMauris.tiff;Ler;5
+2;RidiculusMus.tiff;Gravar Dispositivo Externo;5
+1;Quisque.avi;Gravar Dispositivo Externo;10
+3;Viverra.xls;Gravar Dispositivo Interno;10
+2;OrciLuctusEt.xls;Deletar;2
+3;Quisque.png;Gravar Dispositivo Interno;7
+3;ViverraDiam.pdf;Gravar Dispositivo Externo;5
+1;LoremIpsumDolor.gif;Imprimir;10
+1;Vitae.mp3;Gravar Dispositivo Externo;10
+3;PhasellusSitAmet.mpeg;Imprimir;8
+3;In.mp3;Gravar Dispositivo Interno;7
+2;SedVel.xls;Ler;4
+3;ConvallisTortor.mov;Gravar Dispositivo Interno;3
+4;LuctusCumSociis.jpeg;Imprimir;7
+4;DisParturient.mov;Deletar;2
+2;AliquetAtFeugiat.mpeg;Imprimir;9
+3;Sed.png;Gravar Dispositivo Externo;2
+2;Dis.mp3;Deletar;7
+3;SemDuis.ppt;Ler;5
+4;Justo.xls;Gravar Dispositivo Interno;5
+3;NonQuam.mp3;Imprimir;4
